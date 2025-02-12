@@ -1,6 +1,6 @@
 # ESP32 Robot Project
 
-This project demonstrates the development of a real-time wireless control system for an ESP32-based robot using a PS4 controller over Bluetooth. Key features include:
+This project sample code demonstrates the development of a real-time wireless control system for an ESP32-based robot using a PS4 controller over Bluetooth. Key features include:
 
 - **Real-Time Wireless Control**: Achieves <20ms response time using PS4 controller input.
 - **Power Optimization**: Implements mathematical algorithms for 95% motor precision and 40% power savings.
